@@ -1,0 +1,1 @@
+It is a easy and simple PHP image cropper and cache thumb manager
